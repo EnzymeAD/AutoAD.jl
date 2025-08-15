@@ -2,3 +2,6 @@ name = "AutoAD"
 uuid = "3adc3437-ee8d-4879-8523-41c5a6d491e3"
 authors = ["wmoses "]
 version = "0.1.0"
+
+[compat]
+julia = "1.10"
